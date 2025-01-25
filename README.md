@@ -1,5 +1,5 @@
 # flask_webapp
-My pet project for learning DevOps
-
+ДИМАААААААААААААААААА
+Сделай коммиты, я не понимаю как пользоваться `git fetch` и что такое `git rebase`
 # Dev branch
-This is another branch. My English is IDUNNO
+This is another branch.
